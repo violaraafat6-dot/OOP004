@@ -1,4 +1,6 @@
 ﻿using Microsoft.VisualBasic;
+using System.ComponentModel;
+using System.Diagnostics.Contracts;
 using System.Numerics;
 
 namespace OOP004
@@ -16,6 +18,21 @@ namespace OOP004
             //the code easier to understand and maintain
 
             #endregion
-        }
+
+            #region question2
+
+            //            Q2
+            //(a)An abstract class can contain fields, constructors, properties, methods, and abstract members.
+            //An interface mainly defines a contract that classes must implemen
+
+            //(b)I would choose an interface when different classes need to follow the same contract, even
+            //if they are not related through inheritance
+
+//            (c)No, a class cannot inherit from multiple classes
+//Yes, a class can implement multiple interfaces
+
+            #endregion
+
+    }
     }
 }
