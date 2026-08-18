@@ -4,13 +4,13 @@ using System.Text;
 
 #region IInsurable
 
-namespace OOP004
-{
-    public interface IInsurable
-    {
-        decimal CalculateInsurance();
-    }
-}
+//namespace OOP004
+//{
+//    public interface IInsurable
+//    {
+//        decimal CalculateInsurance();
+//    }
+//}
 
 
 
